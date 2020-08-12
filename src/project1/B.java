@@ -9,13 +9,14 @@ public class B {
 		B a = new B();
 		B b = new B();
 		B c = new B();
-		int z = a.sum(10, 20);
+		 	
 		int w = b.mul(2,5);
 		int v = c.div(6,2);
 	
 		
 			
-		System.out.println("Sum of value is "+z);
+		String name = null;
+		System.out.println("Sum of value is "+name);
 		System.out.println("Mul of value is "+w);
 		System.out.println("Div of value is "+v);
 		System.out.println(a.sum(12, 16));
